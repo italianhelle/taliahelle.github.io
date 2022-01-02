@@ -1,5 +1,5 @@
 ---
 title: Resume
-layout: blog
+layout: resume
 ---
 
