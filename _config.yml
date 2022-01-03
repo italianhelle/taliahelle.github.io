@@ -11,14 +11,14 @@ title: Talia Armato-Helle
 # Description of the Site
 description: Marketer
 # URL of Image of the Site
-site-image: /iTALIAnHelle.github.io/assets/images/lake.jpg
+site-image: https://github.com/iTALIAnHelle/iTALIAnHelle.github.io/blob/main/lake.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://github.com/iTALIAnHelle/iTALIAnHelle.github.io/blob/main/assets/images/lake.jpg
+heroimage: https://github.com/iTALIAnHelle/iTALIAnHelle.github.io/blob/main/mtn_1
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Talia Armato-helle
 # URL for the Image of the Author
-author-image: https://github.com/iTALIAnHelle/iTALIAnHelle.github.io/blob/main/assets/images/talia.jpg
+author-image: https://github.com/iTALIAnHelle/iTALIAnHelle.github.io/blob/main/talia.jpg
 # 60 Words About the Author
 author-about: Gaming industry professional specializing in omni-channel marketing and cultural DE&I leadership.
 author-url: https://github.com/italianhelle
