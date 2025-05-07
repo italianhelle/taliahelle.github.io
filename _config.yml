@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://taliahelle.github.io'
+url: https://taliahelle.github.io
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -26,8 +26,8 @@ email: talia.helle@gmail.com
 facebook_username: 
 twitter_username:
 instagram_username: 
-linkedin_username: 'https://www.linkedin.com/in/talia-armato-helle/'
-github_username: 'https://www.github.com/italianhelle'
+linkedin_username: https://www.linkedin.com/in/talia-armato-helle/
+github_username: https://www.github.com/italianhelle
 youtube_channel_id: 
 reddit_username: 
 behance_username: 
